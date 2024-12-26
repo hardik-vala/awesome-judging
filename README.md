@@ -79,7 +79,11 @@ Judge Application:
 
 ### DEVPOST
 
+Hackathon aggregator. Each hackathon administers its own judging process, but you can contact the organizers of a hackathon (an email address is usually public on the hackathon page) to nominate yourself as a judge. [Link](https://devpost.com/).
+
 ### lablab.ai
+
+
 
 ### Major League Hacking
 
