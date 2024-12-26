@@ -11,7 +11,7 @@ A curated list of opportunities to judge your peers if you're a dev. Serving as 
 - [Awards](#awards)
     - [Brandon Hall Group Excellence Awards](#brandon-hall-group-excellence-awards)
     - [Globee Golden Bridge Awards](#globee-golden-bridge-awards)
-    - [Software & Information Industry Association (SIIA) CODiE Awards](#siia-codie-awards)
+    - [SIIA CODiE Awards](#siia-codie-awards)
     - [Stevie Awards](#stevie-awards)
     - [Tech in Motion Timmy Awards](#tech-in-motion-timmy-awards)
 - [Hackthons](#hackathons)
@@ -34,18 +34,46 @@ Summary: Recognizes the best organizations from around the world in areas such a
 
 Frequency: Biannual.
 
-Application to be a judge:
-* Fill out an application and successfully complete their judging course.
-* Expect 1-2 weeks to get an accept/reject decision.
+Judge Application:
+* Requirements: Fill out an application, successfully complete their judging course, and pass an interview. Expect 1-2 weeks to get an accept/reject decision after application submission.
 * [Link](https://certification.brandonhall.com/courses/awards-judge-certification).
 
 ### Globee Golden Bridge Awards
 
-### Software & Information Industry Association (SIIA) CODiE Awards
+Summary: Honors business excellence across multiple categories including technology, leadership, innovation, and customer service.
+
+Frequency: Annual.
+
+Judge Application:
+* [Link](https://globee-innovation.secure-platform.com/a/judgeSolicitationProfiles/create)
+
+### SIIA CODiE Awards
+
+Summary: Peer-recognized awards, established by the Software & Information Industry Association, that honor excellence in software, education technology, and digital content.
+
+Frequency: Annual.
+
+Judge Application:
+* When you're approved to be a judge, there's no guarantee you will receive any assignments.
+* [Link](https://globee-innovation.secure-platform.com/a/judgeSolicitationProfiles/create)
 
 ### Stevie Awards
 
+Summary: International business awards that recognize professional excellence across multiple categories and programs.
+
+Frequency: Annual (each category has its own timeline).
+
+Judge Application:
+* [Link](https://stevieawards.com/you-be-judge)
+
 ### Tech in Motion Timmy Awards
+
+Summary: Recognizing the best tech startups, managers, and employers across North America.
+
+Frequency: Annual.
+
+Judge Application:
+* [Link](https://techinmotion.com/timmy-awards/judge-application)
 
 ## Hackathons
 
