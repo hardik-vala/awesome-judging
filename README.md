@@ -30,73 +30,108 @@ A curated list of opportunities to judge your peers if you're a dev. Serving as 
 
 ### Brandon Hall Group Excellence Awards
 
-Summary: Recognizes the best organizations from around the world in areas such as technology, education, etc.
+Description: Recognizes and awards the best organizations from around the world in areas such as technology, education, etc.
 
 Frequency: Biannual.
 
-Judge Application:
-* Requirements: Fill out an application, successfully complete their judging course, and pass an interview. Expect 1-2 weeks to get an accept/reject decision after application submission.
-* [Link](https://certification.brandonhall.com/courses/awards-judge-certification).
+Judging: To enrol as a judge, fill out an [application](https://certification.brandonhall.com/courses/awards-judge-certification), complete their judging course, and pass an interview. Expect 1-2 weeks to get an accept/reject decision after application submission.
 
 ### Globee Golden Bridge Awards
 
-Summary: Honors business excellence across multiple categories including technology, leadership, innovation, and customer service.
+Description: Honors business excellence in companies across multiple categories including technology, leadership, innovation, and customer service.
 
 Frequency: Annual.
 
-Judge Application:
-* [Link](https://globee-innovation.secure-platform.com/a/judgeSolicitationProfiles/create)
+Judging: You can apply [here](https://globee-innovation.secure-platform.com/a/judgeSolicitationProfiles/create).
 
 ### SIIA CODiE Awards
 
-Summary: Peer-recognized awards, established by the Software & Information Industry Association, that honor excellence in software, education technology, and digital content.
+Description: Peer-recognized awards for technology professionals, established by the Software & Information Industry Association, that honor excellence in software, education technology, and digital content.
 
 Frequency: Annual.
 
-Judge Application:
-* When you're approved to be a judge, there's no guarantee you will receive any assignments.
-* [Link](https://globee-innovation.secure-platform.com/a/judgeSolicitationProfiles/create)
+Judging: You can apply [here](https://globee-innovation.secure-platform.com/a/judgeSolicitationProfiles/create), but even if you're approved to be a judge, there's no guarantee you will receive any assignments.
 
 ### Stevie Awards
 
-Summary: International business awards that recognize professional excellence across multiple categories and programs.
+Description: International business awards that recognize professional excellence across multiple categories and programs.
 
-Frequency: Annual (each category has its own timeline).
+Frequency: Annual, but each category has its own timeline.
 
-Judge Application:
-* [Link](https://stevieawards.com/you-be-judge)
+Judging: Application [link](https://stevieawards.com/you-be-judge).
 
 ### Tech in Motion Timmy Awards
 
-Summary: Recognizing the best tech startups, managers, and employers across North America.
+Description: Recognizing the best tech startups, managers, and employers across North America.
 
 Frequency: Annual.
 
-Judge Application:
-* [Link](https://techinmotion.com/timmy-awards/judge-application)
+Judging: Application [link](https://techinmotion.com/timmy-awards/judge-application).
 
 ## Hackathons
 
 ### DEVPOST
 
-Hackathon aggregator. Each hackathon administers its own judging process, but you can contact the organizers of a hackathon (an email address is usually public on the hackathon page) to nominate yourself as a judge. [Link](https://devpost.com/).
+Description: An online hackathon aggregator.
+
+Frequency: At any given moment, you can find dozens of ongoing or upcoming hackathons.
+
+Judging: Each hackathon administers its own judging process, but you can contact the organizers of a hackathon (a contact email is usually public on the hackathon page) to volunteer yourself as a judge. Here's a link to the [platform](https://devpost.com/).
 
 ### lablab.ai
 
+Description: lablab.ai is an online platform that organizes AI-themed hackathons.
 
+Frequency: At any instant, there's atleast one active hackathon.
+
+Judging: The platform uses a centralized judging process for its community hackathons (as opposed to the corporate-sponsored ones), and leverages its team of volunteer mentors to score hackathon projects. You can apply to be a mentor using this [form](https://forms.monday.com/forms/ad4d73114a98ba7c73ae16eafa9ef563?r=use1). Once you've submitted an application, expect a handful of interviews (you might have to take the initiative to schedule them) before being onboarded.
 
 ### Major League Hacking
+
+Description: Major League Hacking (MLH) is another online platform that organizes and supports hackathons worldwide. It provides resources, mentorship, and tools to organize and participate in programming competitions and learning events, while also offering workshops, mini-events, and fellowship programs to help people develop technical skills and connect with the technology industry. 
+
+Frequency: The platform is very active, with several hackathons that are live or upcoming (but most hackathons cater to college and high school students).
+
+Judging: They have a central judging process with a rolling cast of judges. You can apply using this [form](https://majorleaguehacking.typeform.com/to/cHy22kSF?typeform-source=hackp.ac). 
 
 ## Entrepreneurship Programs
 
 ### America's Seed Fund
 
+Description: A US government funding program operated by the National Science Foundation (NSF) and Small Business Administration (SBA), providing early-stage grants to small businesses and startups.
+
+Frequency: Applications are accepted year-round.
+
+Judging: [Sign-up](https://seedfund.nsf.gov/resources/review/) to become a reviewer.
+
 ### Arch Grants
+
+Description: Nonprofit organization based in St. Louis, Missouri that provides equity-free grants to early-stage startups willing to relocate or maintain operations in St. Louis. The program aims to build St. Louis' startup ecosystem by attracting and retaining  entrepreneurs, offering not just funding but also pro bono support services, mentorship, and connections to the local business community.
+
+Frequency: Annual
+
+Judging: Requires filling out an [application](https://archgrants.org/get-involved/become-a-competition-judge/), and then passing an interview. Once accepted, there's no guarantee that you'll be assigned proposals to review if the judigng panel is full.
 
 ### LAUNCH Accelerator
 
+Description: A startup accelerator program that provides funding, mentorship, networking opportunities, and access to investors.
+
+Frequency: Bi-Annual
+
+Judging: You can request to be a judge for their pitch competitions through their [contact form](https://launchaccelerator.co/new-page). 
+
 ### MassChallenge
 
-### New York Business Plan Competition
+Description: A global nonprofit startup accelerator that's equity-free and zero-cost to participants. It provides mentorship, office space, access to corproate partners and investors, resources, and prize money (for top performers only). It's composed of various programs, some industry-specific (eg. healthtech) or region-specific.
+
+Frequency: Have several programs with different timelines.
+
+Judging: [Apply to be an expert](https://masschallenge.org/experts/) and if selected, you can submit your interest to judge particular competitions, but there's no guarantee you'll be selected.
 
 ### treefrog Accelerator
+
+Description: A startup accelerator aimed at supporting the growth of the tech ecosystem in Canada. It focuses on helping early-stage technology companies grow and scale, providing mentorship and coaching, office space and resources, access to networks and potential investors, and business development support.
+
+Frequency: Applications are accepted year-round.
+
+Judging: You can offer to be a mentor through their [contact form](https://www.treefrog.biz/contact-us/), and you may or may not get a chance to judge one of their pitch competitions.
