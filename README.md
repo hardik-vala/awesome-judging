@@ -50,7 +50,7 @@ Description: Peer-recognized awards for technology professionals, established by
 
 Frequency: Annual.
 
-Judging: You can apply [here](https://globee-innovation.secure-platform.com/a/judgeSolicitationProfiles/create), but even if you're approved to be a judge, there's no guarantee you will receive any assignments.
+Judging: You can apply [here](https://siia.net/codie/judges/), but even if you're approved to be a judge, there's no guarantee you will receive any assignments.
 
 ### Stevie Awards
 
